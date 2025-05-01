@@ -1,0 +1,133 @@
+header {
+	text-align: center;
+	font-family: Papyrus;
+	color: rgb(85, 8, 64);
+	font-size: 1.5em;
+}
+
+body {
+	background-color: rgb(246, 224, 240);
+	font-family: Garamond;
+}
+
+p {
+    text-align: center;
+	font-size: 1.2em;
+}
+
+img {
+	width: auto;
+  	height: auto;
+}
+
+#nav {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #96c469;
+	font-size: 15px;
+	font-family: Monospace;
+}
+
+a {
+	color: black;
+	background-color: #96c469;
+	font-size: 1.2em;
+	font-family: Monospace;
+	display: block;
+	margin: 0px;
+	padding: 5px;
+	text-align: center;
+}
+
+li {
+	float: left;
+}
+  
+li a {
+	display: block;
+	color: black;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+  
+li a:hover {
+	background-color: #4b935f;
+}
+
+h2 {
+    font-size: 3em;
+    text-align: center;
+	color: rgb(80, 33, 108);
+}
+
+h3 {
+	color: rgb(0,0,128);
+    font-size: 2.5em;
+    text-align: center;
+}
+
+.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+}
+
+#mammals {
+	color: rgb(167, 52, 52);
+}
+
+#birds {
+	color: rgb(204, 127, 25);
+}
+
+#fish {
+	color: rgb(46, 23, 132);
+}
+
+#reptiles {
+	color: rgb(18, 112, 16);
+}
+
+.popUpMammal {
+	background-color: rgb(167, 52, 52);
+	color: white;
+	font-family: Monospace;
+	font-size: 1.5em;
+	padding: 2px;
+}
+
+.popUpBird {
+	background-color: rgb(204, 127, 25);
+	color: white;
+	font-family: Monospace;
+	font-size: 1.5em;
+	padding: 2px;
+}
+
+.popUpReptile {
+	background-color: rgb(18, 112, 16);
+	color: white;
+	font-family: Monospace;
+	font-size: 1.5em;
+	padding: 2px;
+}
+
+.popUpFish {
+	background-color: rgb(46, 23, 132);
+	color: white;
+	font-family: Monospace;
+	font-size: 1.5em;
+	padding: 2px;
+}
+
+#instructions {
+	background-color: aliceblue;
+	font-family: monospace;
+	font-size: 1.35em;
+	padding: 5px;
+	color: rgb(38, 15, 52);
+}
