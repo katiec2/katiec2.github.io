@@ -22,7 +22,7 @@ function bonusFact(animal) {
 	} else if (animal == "salmon") {
 		document.getElementById("salmonFact").textContent = "Salmon spend years away from their home and eventually come back to same river that they were born in.";
 	} else if (animal == "catfish") {
-		document.getElementById("catfishFact").textContent = "Catfish are known for having \"whiskers\".";
+		document.getElementById("catfishFact").textContent = "Catfish are known for having \"whiskers.\"";
 	} else if (animal == "clownfish") {
 		document.getElementById("clownfishFact").textContent = "Clownfish get their name due to their silly behavior and bright color.";
 	} else {
