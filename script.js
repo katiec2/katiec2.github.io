@@ -41,3 +41,7 @@ function question(animal) {
 		document.getElementById("hawkQuestion").textContent = "Can you spot the differences between the appearance of a hawk and an eagle?";	
 	}
 }
+
+function goto(page) {
+    window.location.href = page;
+}
