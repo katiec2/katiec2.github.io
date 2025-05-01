@@ -8,6 +8,7 @@ header {
 body {
 	background-color: rgb(246, 224, 240);
 	font-family: Garamond;
+	font-size: 1.08em;
 }
 
 p {
@@ -76,19 +77,19 @@ h3 {
 	width: 50%;
 }
 
-#mammals {
+.mammals {
 	color: rgb(167, 52, 52);
 }
 
-#birds {
+.birds {
 	color: rgb(204, 127, 25);
 }
 
-#fish {
+.fish {
 	color: rgb(46, 23, 132);
 }
 
-#reptiles {
+.reptiles {
 	color: rgb(18, 112, 16);
 }
 
