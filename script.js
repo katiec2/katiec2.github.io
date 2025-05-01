@@ -6,7 +6,7 @@ function jokeClick(animal) {
 	} else if (animal == "tiger") {
 		document.getElementById("tigerJoke").textContent = "Why does the tiger always wear stripes? ... Because he doesn't want to be spotted!";
 	} else {
-		document.getElementById("elephantJoke").textContent =  "Why did does the elephant bring a suitcase with them everywhere they go? ... Because he wanted to pack his trunk!";	
+		document.getElementById("elephantJoke").textContent =  "Why does the elephant bring a suitcase with them everywhere they go? ... Because he wanted to pack his trunk!";	
 	}
 }
 
