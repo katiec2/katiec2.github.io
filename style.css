@@ -1,8 +1,13 @@
-header {
+#topHeading {
 	text-align: center;
 	font-family: Papyrus;
 	color: rgb(85, 8, 64);
-	font-size: 1.5em;
+	font-size: 3em;
+	background-color: none;
+	padding: 25px;
+	display: block;
+	margin: 0px;
+	padding: 20px;
 }
 
 body {
@@ -27,11 +32,11 @@ img {
 	padding: 0;
 	overflow: hidden;
 	background-color: #96c469;
-	font-size: 15px;
+	font-size: 1.2em;
 	font-family: Monospace;
 }
 
-a {
+.outsideSources {
 	color: black;
 	background-color: #96c469;
 	font-size: 1.2em;
